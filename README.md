@@ -1,6 +1,5 @@
 # fawzeiaNasr
-git clone https://github.com/Mosabyousif/GithubFirstDay
-cd GithubFirstDay
+git https://github.com/Mosabyousif/GithubFirstDay.git
 git chekout -b caculator-feature
 touch calculator.py
 # calculator.py
